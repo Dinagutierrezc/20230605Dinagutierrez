@@ -1,0 +1,5 @@
+1. Placa madre.
+2. Ram
+3. Rom
+4. Cpu.
+5. fuente de poder.
