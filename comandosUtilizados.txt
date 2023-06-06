@@ -1,0 +1,114 @@
+git init
+git clone
+touch "comandos.txt" "main.js" "indez.html"
+git add .
+git commit -m
+git branch "feature01"
+git checkout feature01
+mkdir "Terminal" "Hardware"
+cd Terminal 
+touch "resumen.txt"
+cd ..
+cd Hardware 
+touch "resumen.txt"
+git checkout main
+git merge feature01
+git add . 
+git commit -m
+git push origin main
+git checkout feature01
+git branch feature02
+git checkout feature02
+git add .
+git commit -m
+git status
+git checkot main
+git merge feature02
+git add .
+git commit -m
+git push origin main
+git push origin feature
+git push origin main
+
+
+
+
+= Historial=
+ git init
+  205  git clone https://github.com/Dinagutierrezc/-20230605-DinaGutierrez-..git
+  206  git branch
+  207  git clone https://github.com/Dinagutierrezc/20230605Dinagutierrez.git
+  208  cd 20230605Dinagutierrez
+  209  touch "comando.txt" "main.js" "index.html"
+  210  git commit - m "01 DinaGutierrez"
+  211  git add .
+  212  git commit .m "01DinaGutierrez"
+  213  git commit -m "01Dinagutierrez"
+  214  git status
+  215  git push origin main
+  216  git checkout "feature01"
+  217  git checkout feature01
+  218  git branch "feature01"
+  219  git branch
+  220  git checkout feature01
+  221  git branch
+  222  mkdir Terminal Hardware
+  223  cd terminal
+  224  touch "resumen.txt"
+  225  cd ..
+  226  cd Hardware
+  227  resumen.txt
+  228  touch resumen.txt
+  229  cd ..
+  230  git add.
+  231  git add .
+  232  git commit -m "commit02DinaGutierrez"
+  233  git branch
+  234  git checkout main
+  235  git merge
+  236  git checkout feature01
+  237  git merge origin main
+  238  git merge main
+  239  git checkout main
+  240  git merge feature01
+  241  git push origin feature01
+  242  git branch
+  243  git checkout feature01
+  244  git add .
+  245  git push origin feature01
+  246  git push origin main
+  247  git checkout main
+  248  git add .
+  249  git push origin main
+  250  git checkout feature01
+  251  git branch "feature02"
+  252  git branch
+  253  git
+  254  clear
+  255  ls
+  256  git checkout feature02
+  257  git add .
+  258  git commit -m "Commit 03DinaGutierrez"
+  259  git status
+  260  git merge
+  261  git merge main
+  262  git checkout main
+  263  git branch
+  264  git merge
+  265  git checkout feature02
+  266  git merge main
+  267  git add .
+  268  git checkout main
+  269  git merge feature02
+  270  git add .
+  271  git commit -m "commit 04DinaGutierrez"
+  272  git push origin main
+  273  git branch
+  274  git add .
+  275  git push origin feature02
+  276  git push origin main
+  277  rm "comandos.txt" / ComandosUtilizados.txt
+  278  ls
+  279  history
+
+
